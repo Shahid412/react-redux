@@ -1,0 +1,37 @@
+.cart-wrapper{
+    background-color:lightgray;
+    height:148px;
+    width:400px;
+    border:1px solid gray;
+    margin-left:20px;
+}
+
+.img-wrapper img{
+    width:100px;
+    margin-top:-10px;
+}
+
+.item{
+    display:inline-block;
+    width:120px;
+    padding:20px;
+    height: 80px;
+
+}
+
+.btn-wrapper button {
+    background-color: #fff;
+    border:0px;
+    padding:8px;
+    border-radius:4px;
+    padding:4px;
+    color:gray;
+}
+
+span{
+    margin: 8px;
+}
+
+.item{
+    float:left;
+}
